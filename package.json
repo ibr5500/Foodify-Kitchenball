@@ -42,7 +42,7 @@
         "webpack-dev-server": "^4.8.1"
     },
     "dependencies": {
-        "babel-loader": "^8.2.5",
+        "babel-loader": "^9.0.0",
         "jest-environment-jsdom": "^28.0.2",
         "lodash": "^4.17.21"
     }
