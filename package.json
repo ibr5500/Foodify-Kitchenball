@@ -44,6 +44,6 @@
     "dependencies": {
         "babel-loader": "^8.2.5",
         "jest-environment-jsdom": "^28.0.2",
-        "lodash": "^4.17.21"
+        "lodash": "^4.17.23"
     }
 }
